@@ -47,4 +47,4 @@ async def on_message(message):
     if message.content.startswith('<check'):
         await message.channel.send(whiteList)
 
-client.run('ODAyOTk0Mzc4OTQ3NjkwNTg2.YA3Uyg.wYmoI3VQ2M9cxgJ5ndQcmdPLrDY')
+client.run('notokenforju')
